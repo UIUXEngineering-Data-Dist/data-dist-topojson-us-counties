@@ -1,7 +1,7 @@
 {
-  "name": "data-topojson-us-counties",
+  "name": "data-dist-topojson-us-counties",
   "version": "2013.0.0",
-  "homepage": "https://github.com/data-dist/data-topojson-us-counties.git",
+  "homepage": "https://github.com/data-dist/data-dist-topojson-us-counties.git",
   "ignore": [
     ".jshintrc",
     "**/*.txt",
