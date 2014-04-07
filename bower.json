@@ -1,0 +1,29 @@
+{
+  "name": "data-topojson-us-counties",
+  "version": "2013.0.0",
+  "homepage": "https://github.com/data-dist/data-topojson-us-counties.git",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "authors": [
+    "Jerry Orta <jerryorta@gmail.com>"
+  ],
+  "description": "US counties for the whole nation as one file, and separate files separated by state.",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "keywords": [
+    "topojson",
+    "counties",
+    "data",
+    "state"
+  ],
+  "license": "MIT"
+}
